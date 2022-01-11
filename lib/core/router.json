@@ -1,0 +1,30 @@
+{
+    "last_updated": "Tue, 11 Jan 2022 17:12:51 GMT",
+    "routes": [
+        {
+            "file_path": "views/my_app/my_app_view.dart",
+            "route_name": "my_appViewRoute",
+            "view_name": "MyAppView"
+        },
+        {
+            "file_path": "views/splash/splash_view.dart",
+            "route_name": "splashViewRoute",
+            "view_name": "SplashView"
+        },
+        {
+            "file_path": "views/login_v_iew/login_v_iew_view.dart",
+            "route_name": "login_v_iewViewRoute",
+            "view_name": "LoginVIewView"
+        },
+        {
+            "file_path": "views/register/register_view.dart",
+            "route_name": "registerViewRoute",
+            "view_name": "RegisterView"
+        },
+        {
+            "file_path": "views/user_helper/user_helper_view.dart",
+            "route_name": "user_helperViewRoute",
+            "view_name": "UserHelperView"
+        }
+    ]
+}
